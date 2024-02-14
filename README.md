@@ -1,5 +1,5 @@
 # The project is live at
-https://sinan14.github.io/Testimonial-grid-section/
+https://abderraoufbo.github.io/testimonials-grid/
 # Frontend Mentor - Testimonials grid section
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
